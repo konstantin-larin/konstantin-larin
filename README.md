@@ -14,7 +14,7 @@ I've been learning to code for 3 years. I started as a [frontend developer](http
 * 💬  Ask me about books, sports, and general fun
 
 
-
+--------------
 <p align="left">     
   <!-- Core: Python + Data Science -->
   <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python" /></a>
@@ -50,12 +50,13 @@ I've been learning to code for 3 years. I started as a [frontend developer](http
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="MongoDB" /></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" height="36" alt="SQL" /></a>
 </p>
+--------------
 
 
 
 
-
-### Socials
+Socials
+--------------
 <p align="left">
   <img src="https://img.shields.io/github/followers/konstantin-larin?logo=github&style=for-the-badge&color=ffffff&labelColor=22272e&token=YOUR_GITHUB_TOKEN" alt="GitHub" />
 
@@ -65,12 +66,14 @@ I've been learning to code for 3 years. I started as a [frontend developer](http
 </p>
 
 
-### GitHub Stats
+GitHub Stats
+--------------
 <a href="https://github.com/konstantin-larin"><img src="https://github-readme-stats.vercel.app/api?username=konstantin-larin&show_icons=true&hide_border=true&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=22272e" alt="Konstantin's GitHub stats" /></a>
 
 <a href="https://github.com/konstantin-larin"><img src="https://github-readme-streak-stats.herokuapp.com/?user=konstantin-larin&theme=dark&hide_border=true" alt="Konstantin's GitHub Streak" /></a>
 
-### Top Repositories
+Top Repositories
+--------------
 <div align="center">
 <a href="https://github.com/konstantin-larin/ml_handbook"><img src="https://github-readme-stats.vercel.app/api/pin/?username=konstantin-larin&repo=ml_handbook&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=22272e&hide_border=true" width="45%" /></a>
 <a href="https://github.com/konstantin-larin/AlphaZero_Chess"><img src="https://github-readme-stats.vercel.app/api/pin/?username=konstantin-larin&repo=AlphaZero_Chess&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=22272e&hide_border=true" width="45%" /></a>
