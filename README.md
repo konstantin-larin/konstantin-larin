@@ -57,9 +57,8 @@ I've been learning to code for 3 years. I started as a [frontend developer](http
 
 ### Socials
 <p align="left">
-  <a href="https://github.com/konstantin-larin">
-    <img src="https://img.shields.io/github/followers/konstantin-larin?logo=github&style=for-the-badge&color=ffffff&labelColor=22272e" alt="GitHub" />
-  </a>
+  <img src="https://img.shields.io/github/followers/konstantin-larin?logo=github&style=for-the-badge&color=ffffff&labelColor=22272e&token=YOUR_GITHUB_TOKEN" alt="GitHub" />
+
   <a href="https://t.me/klx33">
     <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=ffffff" alt="Telegram" />
   </a>
