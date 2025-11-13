@@ -13,8 +13,9 @@ I've been learning to code for 3 years. I started as a [frontend developer](http
 * 👥  Looking to collaborate on AI/ML research, applied ML/DL projects, intelligent systems, and open-source ML initiatives
 * 💬  Ask me about books, sports, and general fun
 
-
+Skills
 --------------
+
 <p align="left">     
   <!-- Core: Python + Data Science -->
   <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python" /></a>
@@ -50,10 +51,6 @@ I've been learning to code for 3 years. I started as a [frontend developer](http
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="MongoDB" /></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" height="36" alt="SQL" /></a>
 </p>
---------------
-
-
-
 
 Socials
 --------------
