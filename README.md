@@ -51,27 +51,6 @@ Skills
 
 Socials
 --------------
-<p align="left">
-  <a href="https://t.me/klx33">Telegram</a>
-</p>
-
-GitHub Stats
---------------
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=konstantin-larin&show_icons=true&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=22272e&cache_seconds=86400" />
-</p>
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=konstantin-larin&theme=dark&hide_border=true" />
-</p>
-
-Top Repositories
---------------
-<div align="center">
-  <a href="https://github.com/konstantin-larin/ml_handbook">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=konstantin-larin&repo=ml_handbook&bg_color=22272e&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&cache_seconds=86400" width="45%" />
-  </a>
-  <a href="https://github.com/konstantin-larin/AlphaZero_Chess">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=konstantin-larin&repo=AlphaZero_Chess&bg_color=22272e&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&cache_seconds=86400" width="45%" />
-  </a>
-</div>
+<p align="left"> 
+  <img src="https://img.shields.io/github/followers/konstantin-larin?logo=github&style=for-the-badge&color=ffffff&labelColor=22272e" alt="GitHub" /> <a href="https://t.me/klx33"> 
+    <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=ffffff" alt="Telegram" /> </a> </p>
