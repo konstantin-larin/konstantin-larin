@@ -4,12 +4,12 @@ Hi 👋! My name is Konstantin
 AI/ML Engineer
 --------------
 
-I've been learning to code for 3 years. I started as a frontend developer, but discovered a real passion for Data Science and ML Engineering. Currently pursuing a degree at [RTU MIREA](https://github.com/rtu-mirea) while growing through hands-on experience and real-world challenges.
+I've been learning to code for 4 years. I started as a frontend developer, but discovered a real passion for Data Science and ML Engineering. Currently working in Tier-1 bank, pursuing a degree at [RTU MIREA](https://github.com/rtu-mirea), competing in ML competitions.
 
 * 🌍  Based in Russia  
 * ✉️  Contact: [konstantin.larin.33@gmail.com](mailto:konstantin.larin.33@gmail.com) 
 * 👥  Open to collaboration on AI/ML research, applied ML/DL projects, intelligent systems, and open-source ML  
-* 💬  Ask me about books, sports, and general fun  
+* 💬  Ask me about books, sports, and general fun
 
 Skills
 --------------
